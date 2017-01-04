@@ -9,3 +9,4 @@ sending a pull request!
 - James Kyle (idiot, [@thejameskyle on GitHub](https://github.com/thejameskyle), [@thejameskyle on Twitter](https://twitter.com/thejameskyle))
 - Gregor Martynus (participant, [@gr2m on GitHub](https://github.com/gr2m/), [@gr2m on Twitter](https://twitter.com/gr2m/). LA based, 
 🛫 Wed, Feb 15 with [jetBlue 1136](https://www.google.com/search?q=jetBlue+1136) 🛬 Thu, Feb 16: [jetBlue 1435](https://www.google.com/search?q=jetBlue+1435)
+- Daniel McDonald (participant, [@wasade on GitHub](https://github.com/wasade), [@mcdonadt on Twitter](https://twitter.com/mcdonadt), SEA based, flights TBD
