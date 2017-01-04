@@ -11,3 +11,5 @@ sending a pull request!
 🛫 Wed, Feb 15 with [jetBlue 1136](https://www.google.com/search?q=jetBlue+1136) 🛬 Thu, Feb 16: [jetBlue 1435](https://www.google.com/search?q=jetBlue+1435)
 - Daniel McDonald (participant, [@wasade on GitHub](https://github.com/wasade), [@mcdonadt on Twitter](https://twitter.com/mcdonadt), SEA based, flights TBD
 - Sebastiaan van Stijn (participant, [@thaJeztah on GitHub](https://github.com/thaJeztah), [@thaJeztah on Twitter](https://twitter.com/thaJeztah), Located in The Netherlands 🇳🇱)
+- Tianon Gravi (bashochist, [@tianon on GitHub](https://github.com/tianon), [@tianon on Twitter](https://twitter.com/tianon))
+- Joe Ferguson (participant, [@yosifkit on GitHub](https://github.com/yosifkit), [@yosifkit on Twitter](https://twitter.com/yosifkit))
