@@ -6,3 +6,4 @@ sending a pull request!
 - Jess Frazelle (organizer, [@jessfraz on GitHub](https://github.com/jessfraz), [@jessfraz on Twitter](https://twitter.com/jessfraz))
 - Katrina Owen (organizer, [@kytrinyx on GitHub](https://github.com/kytrinyx),
   [@kytrinyx on Twitter](https://twitter.com/kytrinyx))
+- James Kyle (idiot, [@thejameskyle on GitHub](https://github.com/thejameskyle), [@thejameskyle on Twitter](https://twitter.com/thejamekyle))
