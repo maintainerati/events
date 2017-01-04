@@ -13,3 +13,5 @@ sending a pull request!
 - Sebastiaan van Stijn (participant, [@thaJeztah on GitHub](https://github.com/thaJeztah), [@thaJeztah on Twitter](https://twitter.com/thaJeztah), Located in The Netherlands 🇳🇱)
 - Tianon Gravi (bashochist, [@tianon on GitHub](https://github.com/tianon), [@tianon on Twitter](https://twitter.com/tianon))
 - Joe Ferguson (participant, [@yosifkit on GitHub](https://github.com/yosifkit), [@yosifkit on Twitter](https://twitter.com/yosifkit))
+- Luis Villa (participant, [@tieguy](https://github.com/tieguy) on Github, [lu.is](http://lu.is) on ye olde WWW, [@luis_in_140](http://twitter.com/luis_in_140) on Twitter, SF-based)
+
