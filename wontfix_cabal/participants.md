@@ -15,3 +15,4 @@ sending a pull request!
 - Tianon Gravi (bashochist, [@tianon on GitHub](https://github.com/tianon), [@tianon on Twitter](https://twitter.com/tianon))
 - Joe Ferguson (participant, [@yosifkit on GitHub](https://github.com/yosifkit), [@yosifkit on Twitter](https://twitter.com/yosifkit))
 - Luis Villa (participant, [@tieguy](https://github.com/tieguy) on Github, [lu.is](http://lu.is) on ye olde WWW, [@luis_in_140](http://twitter.com/luis_in_140) on Twitter, SF-based)
+- Matt Hooker (participant, @mwhooker on [Github](https://github.com/mwhooker) and [twitter](https://twitter.com/mwhooker)).
