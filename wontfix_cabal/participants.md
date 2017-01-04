@@ -16,3 +16,4 @@ sending a pull request!
 - Joe Ferguson (participant, [@yosifkit on GitHub](https://github.com/yosifkit), [@yosifkit on Twitter](https://twitter.com/yosifkit))
 - Luis Villa (participant, [@tieguy](https://github.com/tieguy) on Github, [lu.is](http://lu.is) on ye olde WWW, [@luis_in_140](http://twitter.com/luis_in_140) on Twitter, SF-based)
 - Matt Hooker (participant, @mwhooker on [Github](https://github.com/mwhooker) and [twitter](https://twitter.com/mwhooker)).
+- Emma Humphries (participant, [@emceeaich](https://github.com/emceeaich) on Github and [@triagegirl](https://twitter.com/triagegirl) on Twitter)
