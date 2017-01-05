@@ -26,3 +26,4 @@ sending a pull request!
 - James Turnbull (participant/general gadfly [@jamtur01 on GitHub](https://github.com/jamtur01), [@kartar on Twitter](https://twitter.com/kartar). NYC-based. 2/13 UA212 - 2/17 UA 212.
 - Tim Smith (participant, [@tas50 on GitHub](https://github.com/tas50), [@tas50 on Twitter](https://twitter.com/tas50), PDX based
 - Brian Doll (participant, [@briandoll on GitHub](https://github.com/briandoll), [@briandoll on Twitter](https://twitter.com/briandoll), SF
+- Jaana Burcu Dogan (participant, [@rakyll on GitHub](https://github.com/rakyll), [@rakyll on Twitter](https://twitter.com/rakyll))
