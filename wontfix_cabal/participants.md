@@ -23,3 +23,4 @@ sending a pull request!
 - Kostya Serebryany (participant, [@kcc](https://github.com/kcc) @ GitHub, [@kayseesee](https://twitter.com/kayseesee) @ Twitter)
 - Lee Dohm (host/participant, [@lee-dohm](https://github.com/lee-dohm) on GitHub, [@leedohm](https://twitter.com/leedohm) on Twitter)
 - Eric Steele (participant, [@esteele on Github](https://github.com/esteele), [@esteele on Twitter](https://twitter.com/esteele))
+- James Turnbull (participant/general gadfly [@jamtur01 on GitHub](https://github.com/jamtur01), [@kartar on Twitter](https://twitter.com/kartar). NYC-based. 2/13 UA212 - 2/17 UA 212.
