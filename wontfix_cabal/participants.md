@@ -18,3 +18,4 @@ sending a pull request!
 - Matt Hooker (participant, @mwhooker on [Github](https://github.com/mwhooker) and [twitter](https://twitter.com/mwhooker)).
 - Emma Humphries (participant, [@emceeaich](https://github.com/emceeaich) on Github and [@triagegirl](https://twitter.com/triagegirl) on Twitter, Bay Area Local)
 - Brandon Keepers (host/participant, [@bkeepers on GitHub](https://github.com/bkeepers), [@bkeepers on Twitter](https://twitter.com/bkeepers)
+- Caleb Hailey (participant, [@calebhailey on GitHub](https://github.com/calebhailey), [@calebhailey on Twitter](https://twitter.com/calebhailey)
