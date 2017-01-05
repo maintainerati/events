@@ -7,7 +7,7 @@ sending a pull request!
 - Katrina Owen (organizer, [@kytrinyx on GitHub](https://github.com/kytrinyx),
   [@kytrinyx on Twitter](https://twitter.com/kytrinyx))
 - James Kyle (idiot, [@thejameskyle on GitHub](https://github.com/thejameskyle), [@thejameskyle on Twitter](https://twitter.com/thejameskyle))
-- Gregor Martynus (participant, [@gr2m on GitHub](https://github.com/gr2m/), [@gr2m on Twitter](https://twitter.com/gr2m/). LA based, 
+- Gregor Martynus (participant, [@gr2m on GitHub](https://github.com/gr2m/), [@gr2m on Twitter](https://twitter.com/gr2m/). LA based,
 🛫 Wed, Feb 15 with [jetBlue 1136](https://www.google.com/search?q=jetBlue+1136) 🛬 Thu, Feb 16: [jetBlue 1435](https://www.google.com/search?q=jetBlue+1435)
 - Daniel McDonald (participant, [@wasade on GitHub](https://github.com/wasade), [@mcdonadt on Twitter](https://twitter.com/mcdonadt), SEA based, flights TBD
 - Daniel Bachhuber (participant, [@danielbachhuber on GitHub](https://github.com/danielbachhuber), [@danielbachhuber on Twitter](https://twitter.com/danielbachhuber), PDX based, arriving Weds morning on [Alaska 2589](https://www.google.com/search?q=Alaska+2589)
@@ -27,3 +27,4 @@ sending a pull request!
 - Tim Smith (participant, [@tas50 on GitHub](https://github.com/tas50), [@tas50 on Twitter](https://twitter.com/tas50), PDX based
 - Brian Doll (participant, [@briandoll on GitHub](https://github.com/briandoll), [@briandoll on Twitter](https://twitter.com/briandoll), SF
 - Jaana Burcu Dogan (participant, [@rakyll on GitHub](https://github.com/rakyll), [@rakyll on Twitter](https://twitter.com/rakyll))
+- Kevin Burke (participant, [@kevinburke on GitHub](https://github.com/kevinburke), [@derivativeburke on Twitter](https://twitter.com/derivativeburke), [available for hire](https://burke.services))
