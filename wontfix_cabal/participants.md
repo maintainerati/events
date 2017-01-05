@@ -20,3 +20,4 @@ sending a pull request!
 - Brandon Keepers (host/participant, [@bkeepers on GitHub](https://github.com/bkeepers), [@bkeepers on Twitter](https://twitter.com/bkeepers)
 - Caleb Hailey (participant, [@calebhailey on GitHub](https://github.com/calebhailey), [@calebhailey on Twitter](https://twitter.com/calebhailey)
 - John Wiebalk (participant, [@jwiebalk on GitHub](https://github.com/jwiebalk), [@johnwiebalk on Twitter](https://twitter.com/johnwiebalk)
+- Kostya Serebryany (participant, @kcc @ GitHub, [@kayseesee](https://twitter.com/kayseesee) @ Twitter)
