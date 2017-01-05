@@ -30,3 +30,4 @@ sending a pull request!
 | Rich Trott | participant |[@Trott](https://github.com/Trott) | [@Trott](https://twitter.com/Trott) | |
 | Jennifer Davis | participant | [@iennae](https://github.com/iennae) | [@sigje](https://twitter.com/sigje) | Bay Area based |
 | Kevin Burke | participant | [@kevinburke](https://github.com/kevinburke) | [@derivativeburke](https://twitter.com/derivativeburke) | [available for hire](https://burke.services) |
+| Thom May | participant | [@thommay](https://github.com/thommay) | [@thommay](https://twitter.com/thommay) | London based, in SF 2/11 - 2/16 |
