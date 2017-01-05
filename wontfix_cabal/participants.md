@@ -27,3 +27,4 @@ sending a pull request!
 - Tim Smith (participant, [@tas50 on GitHub](https://github.com/tas50), [@tas50 on Twitter](https://twitter.com/tas50), PDX based
 - Brian Doll (participant, [@briandoll on GitHub](https://github.com/briandoll), [@briandoll on Twitter](https://twitter.com/briandoll), SF
 - Jaana Burcu Dogan (participant, [@rakyll on GitHub](https://github.com/rakyll), [@rakyll on Twitter](https://twitter.com/rakyll))
+- Matt Brictson (participant, [@mattbrictson on GitHub](https://github.com/mattbrictson), [@mattbrictson on Twitter](https://twitter.com/mattbrictson), SF)
