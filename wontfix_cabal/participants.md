@@ -33,3 +33,4 @@ sending a pull request!
 | Thom May | participant | [@thommay](https://github.com/thommay) | [@thommay](https://twitter.com/thommay) | London based, in SF 2/11 - 2/16 |
 | Matt Brictson | participant | [@mattbrictson](https://github.com/mattbrictson) | [@mattbrictson](https://twitter.com/mattbrictson) | SF |
 | Matthew Rothenberg | participant | [@mroth](https://github.com/mroth) | [@mroth](https://twitter.com/mroth) | Brooklyn |
+| Rebecca Skinner | participant | [@rebeccaskinner](https://github.com/rebeccaskinner) | [@cercerilla](https://twitter.com/cercerilla) | St. Louis |
