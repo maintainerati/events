@@ -21,3 +21,4 @@ sending a pull request!
 - Caleb Hailey (participant, [@calebhailey on GitHub](https://github.com/calebhailey), [@calebhailey on Twitter](https://twitter.com/calebhailey)
 - John Wiebalk (participant, [@jwiebalk on GitHub](https://github.com/jwiebalk), [@johnwiebalk on Twitter](https://twitter.com/johnwiebalk)
 - Kostya Serebryany (participant, [@kcc](https://github.com/kcc) @ GitHub, [@kayseesee](https://twitter.com/kayseesee) @ Twitter)
+- Lee Dohm (host/participant, [@lee-dohm](https://github.com/lee-dohm) on GitHub, [@leedohm](https://twitter.com/leedohm) on Twitter)
