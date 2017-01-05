@@ -3,6 +3,9 @@
 Every participant can add themselves before or at the beginning of the event by
 sending a pull request!
 
+
+- Jennifer Davis (participant, [@iennae on GitHub](https://github.com/iennae), [@sigje on Twitter](https://twitter.com/sigje), Bay Area based)
+=======
 | Name  | Role | GitHub | Twitter | Notes |
 | ----- | ---- | ------ | ------- | ----- |
 | Jess Frazelle  | organizer  | [@jessfraz](https://github.com/jessfraz) | [@jessfraz](https://twitter.com/jessfraz) | |
@@ -28,3 +31,4 @@ sending a pull request!
 | Brian Doll | participant |[@briandoll](https://github.com/briandoll) | [@briandoll](https://twitter.com/briandoll) | SF |
 | Jaana Burcu Dogan | participant |[@rakyll](https://github.com/rakyll) | [@rakyll](https://twitter.com/rakyll) | |
 | Rich Trott | participant |[@Trott](https://github.com/Trott) | [@Trott](https://twitter.com/Trott) | |
+| Jennifer Davis | participant | [@iennae](https://github.com/iennae) | [@sigje](https://twitter.com/sigje) | Bay Area based |
