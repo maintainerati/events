@@ -34,3 +34,4 @@ sending a pull request!
 | Matt Brictson | participant | [@mattbrictson](https://github.com/mattbrictson) | [@mattbrictson](https://twitter.com/mattbrictson) | SF |
 | Matthew Rothenberg | participant | [@mroth](https://github.com/mroth) | [@mroth](https://twitter.com/mroth) | Brooklyn |
 | Rebecca Skinner | participant | [@rebeccaskinner](https://github.com/rebeccaskinner) | [@cercerilla](https://twitter.com/cercerilla) | St. Louis |
+| Josh Smith | participant | [@joshsmith](https://github.com/joshsmith) | [@joshsmith](https://twitter.com/joshsmith) | San Diego |
