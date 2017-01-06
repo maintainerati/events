@@ -35,3 +35,4 @@ sending a pull request!
 | Matthew Rothenberg | participant | [@mroth](https://github.com/mroth) | [@mroth](https://twitter.com/mroth) | Brooklyn |
 | Rebecca Skinner | participant | [@rebeccaskinner](https://github.com/rebeccaskinner) | [@cercerilla](https://twitter.com/cercerilla) | St. Louis |
 | Josh Smith | participant | [@joshsmith](https://github.com/joshsmith) | [@joshsmith](https://twitter.com/joshsmith) | San Diego |
+| ian weller | participant | [@ianweller](https://github.com/ianweller) | [@ianweller](https://twitter.com/ianweller) | Greetings from Amazon Linux |
