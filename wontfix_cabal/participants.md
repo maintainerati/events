@@ -37,3 +37,4 @@ sending a pull request!
 | Josh Smith | participant | [@joshsmith](https://github.com/joshsmith) | [@joshsmith](https://twitter.com/joshsmith) | San Diego |
 | ian weller | participant | [@ianweller](https://github.com/ianweller) | [@ianweller](https://twitter.com/ianweller) | Greetings from Amazon Linux |
 | [Will Norris](https://willnorris.com/)  | participant  | [@willnorris](https://github.com/willnorris) | [@willnorris](https://twitter.com/willnorris) | |
+| Paul Betts | participant |[@paulcbetts](https://github.com/paulcbetts) | [@paulcbetts](https://twitter.com/paulcbetts) | SF |
