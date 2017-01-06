@@ -36,3 +36,4 @@ sending a pull request!
 | Rebecca Skinner | participant | [@rebeccaskinner](https://github.com/rebeccaskinner) | [@cercerilla](https://twitter.com/cercerilla) | St. Louis |
 | Josh Smith | participant | [@joshsmith](https://github.com/joshsmith) | [@joshsmith](https://twitter.com/joshsmith) | San Diego |
 | ian weller | participant | [@ianweller](https://github.com/ianweller) | [@ianweller](https://twitter.com/ianweller) | Greetings from Amazon Linux |
+| [Will Norris](https://willnorris.com/)  | participant  | [@willnorris](https://github.com/willnorris) | [@willnorris](https://twitter.com/willnorris) | |
