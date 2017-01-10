@@ -39,3 +39,4 @@ sending a pull request!
 | [Will Norris](https://willnorris.com/)  | participant  | [@willnorris](https://github.com/willnorris) | [@willnorris](https://twitter.com/willnorris) | |
 | Paul Betts | participant |[@paulcbetts](https://github.com/paulcbetts) | [@paulcbetts](https://twitter.com/paulcbetts) | SF |
 | Jeff Pickhardt | participant |[@pickhardt](https://github.com/pickhardt) | [@jrpickhardt](https://twitter.com/jrpickhardt) | SF |
+| Laura Abbott | participant | [@labbott](https://github.com/labbott) | [@openlabbott](https://twitter.com/openlabbott) | SEA |
