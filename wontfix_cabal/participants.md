@@ -38,3 +38,4 @@ sending a pull request!
 | ian weller | participant | [@ianweller](https://github.com/ianweller) | [@ianweller](https://twitter.com/ianweller) | Greetings from Amazon Linux |
 | [Will Norris](https://willnorris.com/)  | participant  | [@willnorris](https://github.com/willnorris) | [@willnorris](https://twitter.com/willnorris) | |
 | Paul Betts | participant |[@paulcbetts](https://github.com/paulcbetts) | [@paulcbetts](https://twitter.com/paulcbetts) | SF |
+| Jeff Pickhardt | participant |[@pickhardt](https://github.com/pickhardt) | [@jrpickhardt](https://twitter.com/jrpickhardt) | SF |
