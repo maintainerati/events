@@ -42,3 +42,4 @@ sending a pull request!
 | Laura Abbott | participant | [@labbott](https://github.com/labbott) | [@openlabbott](https://twitter.com/openlabbott) | SEA |
 | Kyle Mathews | participant | [@kyleamathews](https://github.com/kyleamathews) | [@kylemathews](https://twitter.com/kylemathews) | SF |
 | Beyang Liu | participant | [@beyang](https://github.com/beyang) | [@beyang](https://twitter.com/beyang) | SF |
+| Quinn Slack | participant | [@sqs](https://github.com/sqs) | [@sqs](https://twitter.com/sqs) | SF |
