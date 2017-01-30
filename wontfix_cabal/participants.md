@@ -8,7 +8,7 @@ sending a pull request!
 | Jess Frazelle  | organizer  | [@jessfraz](https://github.com/jessfraz) | [@jessfraz](https://twitter.com/jessfraz) | |
 | Katrina Owen | organizer | [@kytrinyx](https://github.com/kytrinyx) | [@kytrinyx](https://twitter.com/kytrinyx) | |
 | James Kyle | idiot | [@thejameskyle](https://github.com/thejameskyle) | [@thejameskyle](https://twitter.com/thejameskyle) | |
-| Gregor Martynus | participant |[@gr2m](https://github.com/gr2m/) | [@gr2m](https://twitter.com/gr2m/) | LA based 🛫 Wed, Feb 15 with [jetBlue 1136](https://www.google.com/search?q=jetBlue+1136) 🛬 Thu, Feb 16: [jetBlue 1435](https://www.google.com/search?q=jetBlue+1435) |
+| Gregor Martynus | participant |[@gr2m](https://github.com/gr2m/) | [@gr2m](https://twitter.com/gr2m/) | LA based 🛫 Tue, Feb 14 with [jetBlue 6736](https://www.google.com/search?q=jetBlue+6736) 🛬 Thu, Feb 16: [jetBlue 1435](https://www.google.com/search?q=jetBlue+1435) |
 | Daniel McDonald | participant |[@wasade](https://github.com/wasade) | [@mcdonadt](https://twitter.com/mcdonadt) | SEA based, flights TBD
 | Daniel Bachhuber | participant |[@danielbachhuber](https://github.com/danielbachhuber) | [@danielbachhuber](https://twitter.com/danielbachhuber) | PDX based, arriving Weds morning on [Alaska 2589](https://www.google.com/search?q=Alaska+2589)
 | Sebastiaan van Stijn | participant |[@thaJeztah](https://github.com/thaJeztah) | [@thaJeztah](https://twitter.com/thaJeztah) | Located in The Netherlands 🇳🇱
