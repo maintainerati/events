@@ -44,4 +44,5 @@ sending a pull request!
 | Beyang Liu | participant | [@beyang](https://github.com/beyang) | [@beyang](https://twitter.com/beyang) | SF |
 | Quinn Slack | participant | [@sqs](https://github.com/sqs) | [@sqs](https://twitter.com/sqs) | SF |
 | Johannes Schickling | participant | [@schickling](https://github.com/schickling) | [@_schickling](https://twitter.com/_schickling) | 🇩🇪 Berlin (SF Feb 10 - 17) |
+| Mindy Preston | participant | [@yomimono](https://github.com/yomimono) | [@mindypreston](https://twitter.com/mindypreston) | Madison, WI (SF 7 Feb - 16 Feb) |
 | Jesse Meek | participant | [@waigani](https://github.com/waigani) | [@jessemeek](https://twitter.com/jessemeek) | New Zealand!! (SF Feb 6 - 19) |
