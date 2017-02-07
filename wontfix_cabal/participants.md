@@ -47,3 +47,4 @@ sending a pull request!
 | Mindy Preston | participant | [@yomimono](https://github.com/yomimono) | [@mindypreston](https://twitter.com/mindypreston) | Madison, WI (SF 7 Feb - 16 Feb) |
 | Jesse Meek | participant | [@waigani](https://github.com/waigani) | [@jessemeek](https://twitter.com/jessemeek) | New Zealand!! (SF Feb 6 - 19) |
 | Brandon Weiss | participant | [@brandonweiss](https://github.com/brandonweiss) | [@brandon_weiss](https://twitter.com/brandon_weiss) | SF
+| [Ryan Barrett](https://snarfed.org/) | participant  | [@snarfed](https://github.com/snarfed) | [@schnarfed](https://twitter.com/schnarfed) | SF |
