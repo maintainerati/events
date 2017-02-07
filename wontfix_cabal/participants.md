@@ -56,3 +56,4 @@ sending a pull request!
 | Kyle Mitchell | participant | [@kemitchell](https://github.com/kemitchell) | [@kemitchell](https://twitter.com/kemitchell) | Oakland |
 | [Dorian](https://doma.io) | party-cipant | [@dorian](https://github.com/dorian) | [@bydorian](https://twitter.com/bydorian) | SF |
 | Michal Migurski  | participant | [@migurski](https://github.com/migurski) | [@michalmigurski](https://twitter.com/michalmigurski) | Oakland |
+| Bryan Clark  | participant | [@clarkbw](https://github.com/clarkbw) | [@clarkbw](https://twitter.com/clarkbw) | Victoria, BC :canada: |
