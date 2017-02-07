@@ -54,3 +54,4 @@ sending a pull request!
 | Amir Chaudhry | participant | [@amirmc](https://github.com/amirmc) | [@amirmc](https://twitter.com/amirmc) | Cambridge, UK (SF: 7-16 Feb) |
 | Tim Abbott | participant | [@timabbott](https://github.com/timabbott) | [@tabbott3](https://twitter.com/tabbott3) | SF |
 | Kyle Mitchell | participant | [@kemitchell](https://github.com/kemitchell) | [@kemitchell](https://twitter.com/kemitchell) | Oakland |
+| Dorian | participant | [@dorian](https://github.com/dorian) | (@bydorian)(https://twitter.com/bydorian) | SF |
