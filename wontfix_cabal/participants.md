@@ -46,5 +46,9 @@ sending a pull request!
 | Johannes Schickling | participant | [@schickling](https://github.com/schickling) | [@_schickling](https://twitter.com/_schickling) | 🇩🇪 Berlin (SF Feb 10 - 17) |
 | Mindy Preston | participant | [@yomimono](https://github.com/yomimono) | [@mindypreston](https://twitter.com/mindypreston) | Madison, WI (SF 7 Feb - 16 Feb) |
 | Jesse Meek | participant | [@waigani](https://github.com/waigani) | [@jessemeek](https://twitter.com/jessemeek) | New Zealand!! (SF Feb 6 - 19) |
-| Brandon Weiss | participant | [@brandonweiss](https://github.com/brandonweiss) | [@brandon_weiss](https://twitter.com/brandon_weiss) | SF
 | [Ryan Barrett](https://snarfed.org/) | participant  | [@snarfed](https://github.com/snarfed) | [@schnarfed](https://twitter.com/schnarfed) | SF |
+| Patrick O'Doherty | participant | [@patrickod](https://github.com/patrickod) | [@patrickod](https://twitter.com/patrickod) | SF |
+| Logan Smyth | participant | [@loganfsmyth](https://github.com/loganfsmyth) | [@loganfsmyth](https://twitter.com/loganfsmyth) | SF |
+| Brandon Weiss | participant | [@brandonweiss](https://github.com/brandonweiss) | [@brandon_weiss](https://twitter.com/brandon_weiss) | SF |
+| Don Marti | participant | [@dmarti](https://github.com/dmarti) | [@dmarti](https://twitter.com/dmarti) | SF |
+| Amir Chaudhry | participant | [@amirmc](https://github.com/amirmc) | [@amirmc](https://twitter.com/amirmc) | Cambridge, UK (SF: 7-16 Feb) |
