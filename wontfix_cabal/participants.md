@@ -48,3 +48,4 @@ sending a pull request!
 | Jesse Meek | participant | [@waigani](https://github.com/waigani) | [@jessemeek](https://twitter.com/jessemeek) | New Zealand!! (SF Feb 6 - 19) |
 | Brandon Weiss | participant | [@brandonweiss](https://github.com/brandonweiss) | [@brandon_weiss](https://twitter.com/brandon_weiss) | SF |
 | Don Marti | participant | [@dmarti](https://github.com/dmarti) | [@dmarti](https://twitter.com/dmarti) | SF |
+| Amir Chaudhry | participant | [@amirmc](https://github.com/amirmc) | [@amirmc](https://twitter.com/amirmc) | Cambridge, UK (SF: 7-16 Feb) |
