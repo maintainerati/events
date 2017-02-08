@@ -58,4 +58,5 @@ sending a pull request!
 | Michal Migurski  | participant | [@migurski](https://github.com/migurski) | [@michalmigurski](https://twitter.com/michalmigurski) | Oakland |
 | Bryan Clark  | participant | [@clarkbw](https://github.com/clarkbw) | [@clarkbw](https://twitter.com/clarkbw) | Victoria, BC :canada: |
 | Gary Kramlich | participant | [@grimmy](https://github.com/grimmy) | [@rw_grim](https://twitter.com/rw_grim) | Milwaukee, WI (SF 14 Feb - 16 Feb) |
+| Feross Aboukhadijeh | participant | [@feross](https://github.com/feross) | [@feross](https://twitter.com/feross) | SF, WebTorrent, Standard JS |
 
