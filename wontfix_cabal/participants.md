@@ -60,3 +60,4 @@ sending a pull request!
 | Gary Kramlich | participant | [@grimmy](https://github.com/grimmy) | [@rw_grim](https://twitter.com/rw_grim) | Milwaukee, WI (SF 14 Feb - 16 Feb) |
 | [Chris Biscardi](https://www.christopherbiscardi.com/) | participant | [@christopherbiscardi](https://github.com/ChristopherBiscardi) | [@chrisbiscardi](https://twitter.com/chrisbiscardi) | |
 | Feross Aboukhadijeh | participant | [@feross](https://github.com/feross) | [@feross](https://twitter.com/feross) | SF, WebTorrent, Standard JS |
+| Mike Burns | participant | [@mike-burns](https://github.com/mike-burns) | - | NYC based; in SF from the 15th to 20th |
