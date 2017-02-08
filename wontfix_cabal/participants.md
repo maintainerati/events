@@ -62,6 +62,7 @@ sending a pull request!
 | Feross Aboukhadijeh | participant | [@feross](https://github.com/feross) | [@feross](https://twitter.com/feross) | SF, WebTorrent, Standard JS |
 | Mike Burns | participant | [@mike-burns](https://github.com/mike-burns) | - | NYC based; in SF from the 15th to 20th |
 | [Alan Coopersmith](https://www.x.org/wiki/AlanCoopersmith/) | participant | [@alanc](https://github.com/alanc) | [@alanc](https://twitter.com/alanc) | Santa Clara, CA |
-| Esther Quansah | participant | @essiequoi (https://github.com/essiequoi) | VA based; in SF from 2/8 until 2/16 |
+| Esther Quansah | participant | [@essiequoi](https://github.com/essiequoi) | - | VA based; in SF from 2/8 until 2/16 |
+| Bob Menacho | participant | - | [@bobmynacho](https://twitter.com/bobmynacho) | SF |
 | Dhruv Jain | participant | [@midhruvjaink](https://github.com/midhruvjaink) | [@midhruvjaink](https://twitter.com/midhruvjaink) | YtQck, Fire, Earth.css - INDIA |
 | Rainer Sigwald | participant | [@rainersigwald](https://github.com/rainersigwald) | [@tashkant](https://twitter.com/tashkant) | OKC based, Microsoft dev tools |
