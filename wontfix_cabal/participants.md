@@ -61,3 +61,4 @@ sending a pull request!
 | [Chris Biscardi](https://www.christopherbiscardi.com/) | participant | [@christopherbiscardi](https://github.com/ChristopherBiscardi) | [@chrisbiscardi](https://twitter.com/chrisbiscardi) | |
 | Feross Aboukhadijeh | participant | [@feross](https://github.com/feross) | [@feross](https://twitter.com/feross) | SF, WebTorrent, Standard JS |
 | Mike Burns | participant | [@mike-burns](https://github.com/mike-burns) | - | NYC based; in SF from the 15th to 20th |
+| [Alan Coopersmith](https://www.x.org/wiki/AlanCoopersmith/) | participant | [@alanc](https://github.com/alanc) | [@alanc](https://twitter.com/alanc) | Santa Clara, CA |
