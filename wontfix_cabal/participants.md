@@ -68,3 +68,4 @@ sending a pull request!
 | Cassandra Garris | participant | [@cassandragarris](https://github.com/cassandragarris) | - | Morrisville,NC |
 | Sean Farley | participant | [@seanfarley](https://github.com/seanfarley)| [@seanfarley](https://twitter.com/seanfarley) | SF |
 | Aish Dahal | participant | [@aishraj](https://github.com/aishraj)| [@aishrajdahal](https://twitter.com/aishrajdahal) | - |
+| Daniel Vetter | particiapnt | [fd.o](https://cgit.freedesktop.org/~danvet) | [@danvet](https://twitter.com/danvet) | Switerzland - Arriving Mon evening in SFO |
