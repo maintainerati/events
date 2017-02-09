@@ -67,3 +67,4 @@ sending a pull request!
 | Dhruv Jain | participant | [@midhruvjaink](https://github.com/midhruvjaink) | [@midhruvjaink](https://twitter.com/midhruvjaink) | YtQck, Fire, Earth.css - INDIA |
 | Rainer Sigwald | participant | [@rainersigwald](https://github.com/rainersigwald) | [@tashkant](https://twitter.com/tashkant) | OKC based, Microsoft dev tools |
 | Cassandra Garris | participant | [@cassandragarris](https://github.com/cassandragarris) | - | Morrisville,NC |
+| Sean Farley | participant | [@seanfarley](https://github.com/seanfarley)| [@seanfarley](https://twitter.com/seanfarley) | SF |
