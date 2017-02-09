@@ -14,7 +14,6 @@ sending a pull request!
 | Sebastiaan van Stijn | participant |[@thaJeztah](https://github.com/thaJeztah) | [@thaJeztah](https://twitter.com/thaJeztah) | Located in The Netherlands 🇳🇱
 | Tianon Gravi | bashochist | [@tianon](https://github.com/tianon) | [@tianon](https://twitter.com/tianon) | |
 | Joe Ferguson | participant |[@yosifkit](https://github.com/yosifkit) | [@yosifkit](https://twitter.com/yosifkit) | |
-| Luis Villa | participant |[@tieguy](https://github.com/tieguy) | [@luis_in_140](http://twitter.com/luis_in_140) |[lu.is](http://lu.is) on ye olde WWW, SF-based |
 | Matt Hooker | participant | [@mwhooker](https://github.com/mwhooker) | [@mwhooker](https://twitter.com/mwhooker) | |
 | Emma Humphries | participant |[@emceeaich](https://github.com/emceeaich) | [@triagegirl](https://twitter.com/triagegirl) | Bay Area Local |
 | Brandon Keepers | host/participant |[@bkeepers](https://github.com/bkeepers) | [@bkeepers](https://twitter.com/bkeepers) | |
