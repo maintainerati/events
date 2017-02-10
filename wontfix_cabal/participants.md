@@ -65,7 +65,7 @@ sending a pull request!
 | Bob Menacho | participant | [@ybbodev](https://github.com/Ybbobdev)| [@bobmynacho](https://twitter.com/bobmynacho) | SF |
 | Dhruv Jain | participant | [@midhruvjaink](https://github.com/midhruvjaink) | [@midhruvjaink](https://twitter.com/midhruvjaink) | YtQck, Fire, Earth.css - INDIA |
 | Rainer Sigwald | participant | [@rainersigwald](https://github.com/rainersigwald) | [@tashkant](https://twitter.com/tashkant) | OKC based, Microsoft dev tools |
-| Cassandra Garris | participant | [@cassandragarris](https://github.com/cassandragarris) | - | Morrisville,NC |
+| Cassandra Garris | participant | [@cassandragarris](https://github.com/cassandragarris) | - | based in NC |
 | Sean Farley | participant | [@seanfarley](https://github.com/seanfarley)| [@seanfarley](https://twitter.com/seanfarley) | SF |
 | Aish Dahal | participant | [@aishraj](https://github.com/aishraj)| [@aishrajdahal](https://twitter.com/aishrajdahal) | - |
 | Daniel Vetter | particiapnt | [fd.o](https://cgit.freedesktop.org/~danvet) | [@danvet](https://twitter.com/danvet) | Switerzland - Arriving Mon evening in SFO |
