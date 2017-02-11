@@ -72,3 +72,4 @@ sending a pull request!
 | Jason Laster | particiapnt | [@jasonLaster](github.com/jasonLaster) | [@jasonLaster11](https://twitter.com/jasonlaster11) | NYC - will be around monday through thursday |
 | David Cramer | particiapnt | [@dcramer](github.com/dcramer) | [@zeeg](https://twitter.com/zeeg) | SF, Sentry |
 | Tim Branyen | participant | [@tbranyen](https://github.com/tbranyen) | [@tbranyen](https://twitter.com/tbranyen) | SF |
+| Sean Linsley | participant | [@seanlinsley](https://github.com/seanlinsley) | [@seanlinsley](https://twitter.com/seanlinsley) | Dallas, Active Admin
