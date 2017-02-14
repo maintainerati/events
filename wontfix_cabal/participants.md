@@ -74,3 +74,4 @@ sending a pull request!
 | Tim Branyen | participant | [@tbranyen](https://github.com/tbranyen) | [@tbranyen](https://twitter.com/tbranyen) | SF |
 | Sean Linsley | participant | [@seanlinsley](https://github.com/seanlinsley) | [@seanlinsley](https://twitter.com/seanlinsley) | Dallas, Active Admin |
 | Carol Willing | participant | [@willingc](https://github.com/willingc) | [@willingcarol](https://twitter.com/willingcarol) | San Diego and SLO; :airplane: [United 400](https://www.google.com/search?q=united+400) Wed arr. 8 am |
+| Euan Kemp | participant | [@euank](https://github.com/euank) | [@wobscale](https://twitter.com/wobscale) | SF, CoreOS, Wobscale |
