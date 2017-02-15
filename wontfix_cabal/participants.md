@@ -76,3 +76,5 @@ sending a pull request!
 | Carol Willing | participant | [@willingc](https://github.com/willingc) | [@willingcarol](https://twitter.com/willingcarol) | San Diego and SLO; :airplane: [United 400](https://www.google.com/search?q=united+400) Wed arr. 8 am |
 | Euan Kemp | participant | [@euank](https://github.com/euank) | [@wobscale](https://twitter.com/wobscale) | SF, CoreOS, Wobscale |
 | Prosper Otemuyiwa | participant | [@unicodeveloper](https://github.com/unicodeveloper) | [@unicodeveloper](https://twitter.com/unicodeveloper) | 🇳🇬 Lagos, Nigeria (SF: Feb 12 - 16) |
+| Courtney Wilburn | participant | [@cjwilburn](https://github.com/cjwilburn) | [@cjwilburn](https://twitter.com/cjwilburn) | Based in PHL |
+| Sumana Harihareswara | participant | [@brainwane](https://github.com/brainwane) | [@brainwane](https://twitter.com/brainwane) | NYC-based, in SF through Sunday Feb. 19th. Maintainer-as-a-service consultant & Pythonist/Wikimedian |
