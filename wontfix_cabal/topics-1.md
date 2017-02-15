@@ -5,3 +5,4 @@
 - Docs
 - Code Review and Backlog
 - Metrics
+- Project Newcomers
