@@ -75,4 +75,4 @@ sending a pull request!
 | Sean Linsley | participant | [@seanlinsley](https://github.com/seanlinsley) | [@seanlinsley](https://twitter.com/seanlinsley) | Dallas, Active Admin |
 | Carol Willing | participant | [@willingc](https://github.com/willingc) | [@willingcarol](https://twitter.com/willingcarol) | San Diego and SLO; :airplane: [United 400](https://www.google.com/search?q=united+400) Wed arr. 8 am |
 | Euan Kemp | participant | [@euank](https://github.com/euank) | [@wobscale](https://twitter.com/wobscale) | SF, CoreOS, Wobscale |
-| Prosper Otemuyiwa | participant | [@unicodeveloper](https://github.com/unicodeveloper) | [@unicodeveloper](https://twitter.com/unicodeveloper) | :Nigeria: Lagos, Nigeria (SF Feb 6 - 19) |
+| Prosper Otemuyiwa | participant | [@unicodeveloper](https://github.com/unicodeveloper) | [@unicodeveloper](https://twitter.com/unicodeveloper) | 🇳🇬 Lagos, Nigeria (SF Feb 6 - 19) |
