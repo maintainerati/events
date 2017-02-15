@@ -78,3 +78,4 @@ sending a pull request!
 | Prosper Otemuyiwa | participant | [@unicodeveloper](https://github.com/unicodeveloper) | [@unicodeveloper](https://twitter.com/unicodeveloper) | 🇳🇬 Lagos, Nigeria (SF: Feb 12 - 16) |
 | Courtney Wilburn | participant | [@cjwilburn](https://github.com/cjwilburn) | [@cjwilburn](https://twitter.com/cjwilburn) | Based in PHL |
 | Sumana Harihareswara | participant | [@brainwane](https://github.com/brainwane) | [@brainwane](https://twitter.com/brainwane) | NYC-based, in SF through Sunday Feb. 19th. Maintainer-as-a-service consultant & Pythonist/Wikimedian |
+| Gemma Gordon | participant | [@gemmag](https://github.com/GemmaG) | [@em3r4ld6](https://twitter.com/em3r4ld6) | UK-based: OCaml Labs, Cambridge. SF: 15th |
