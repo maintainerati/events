@@ -81,3 +81,4 @@ sending a pull request!
 | Gemma Gordon | participant | [@gemmag](https://github.com/GemmaG) | [@em3r4ld6](https://twitter.com/em3r4ld6) | UK-based: OCaml Labs, Cambridge. SF: 15th |
 | Anil Madhavapeddy | participant | [@avsm](https://github.com/avsm) | [@avsm](https://twitter.com/avsm) | Cambridge, UK! Docker. |
 | Luis Villa | participant |[@tieguy](https://github.com/tieguy) | [@luis_in_140](http://twitter.com/luis_in_140) |[lu.is](http://lu.is) on ye olde WWW, SF-based |
+| Courteney Ervin | participant |[@courte](https://github.com/courte) | [@courteneyervin](http://twitter.com/courteneyervin) | NYC, New York Public Library |
