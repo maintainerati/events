@@ -82,3 +82,4 @@ sending a pull request!
 | Anil Madhavapeddy | participant | [@avsm](https://github.com/avsm) | [@avsm](https://twitter.com/avsm) | Cambridge, UK! Docker. |
 | Jordan Harband | participant | [@ljharb](http://ljharb.codes) | [@ljharb](https://twitter.com/ljharb) | SF
 | Luis Villa | participant |[@tieguy](https://github.com/tieguy) | [@luis_in_140](http://twitter.com/luis_in_140) |[lu.is](http://lu.is) on ye olde WWW, SF-based |
+| Courteney Ervin | participant |[@courte](https://github.com/courte) | [@courteneyervin](http://twitter.com/courteneyervin) | NYC, New York Public Library |
