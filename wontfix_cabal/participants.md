@@ -80,4 +80,5 @@ sending a pull request!
 | Sumana Harihareswara | participant | [@brainwane](https://github.com/brainwane) | [@brainwane](https://twitter.com/brainwane) | NYC-based, in SF through Sunday Feb. 19th. Maintainer-as-a-service consultant & Pythonist/Wikimedian |
 | Gemma Gordon | participant | [@gemmag](https://github.com/GemmaG) | [@em3r4ld6](https://twitter.com/em3r4ld6) | UK-based: OCaml Labs, Cambridge. SF: 15th |
 | Anil Madhavapeddy | participant | [@avsm](https://github.com/avsm) | [@avsm](https://twitter.com/avsm) | Cambridge, UK! Docker. |
+| Jordan Harband | participant | [@ljharb](http://ljharb.codes) | [@ljharb](https://twitter.com/ljharb) | SF
 | Luis Villa | participant |[@tieguy](https://github.com/tieguy) | [@luis_in_140](http://twitter.com/luis_in_140) |[lu.is](http://lu.is) on ye olde WWW, SF-based |
