@@ -1,0 +1,18 @@
+# Managing your GitHub notifications
+- feel like things sometimes move so fast sometimes that you need to jump in immediately or you'll fall behind
+- can take a long time to collect context of everything that's happened on a particular issue/PR when you do jump in
+- contributors who receive quick responses are more likely to become maintainers but that puts pressure on maintainers to keep up with things
+- maintenance mode takes more time than writing the project and keeping track of notifications is hard
+- new contributors aren't always familiar with the language the project is written in so it can take a long time to get their work mergeable
+- sometimes just declare bankruptcy and mark all notifications as read but then you lose track of things that are ready
+- "I'm the only person who cares enough to do anything about it"
+- [Octobox](https://octobox.io) is a tool built for managing your GitHub Notifications
+- You can have bots on the issue tracker to mark things as stale e.g. https://github.com/apps/probot-stale
+- Unticking the watch button on GitHub
+- Some people use tools to sync GitHub Issues with other tools but then you can have two sets of notifications to check rather than one
+- First-time contributor PRs can take a lot longer to review
+- Buckets for Direct Mentions, Team Mentions, Author, per-repo buckets
+- There's a variety of different approaches on whether things should be open/closed: do you keep open issues based on whether they are going to be working on, reproducible, etc.
+- There's a difference between issues and support requests
+- Desire for a TODO list that only people who have commit access can push to
+- Milestones are a way of creating a self-managed TODO list or assignments or issues labels
