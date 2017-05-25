@@ -1,0 +1,38 @@
+# Creating a Review Culture
+
+- I don’t feel able to respond to other people’s PRs
+	- We need to be careful about what to add.
+	- Do I have the time to get a return on my limited time.
+	- How do we decide whether to add an API? RFC process?
+		- RFCs didn’t work well for Homebrew
+			- Felt like waterfall
+		- RFC process can produce backlog that never gets implemented
+			- Maybe that’s okay?
+		- Documenting every step you take in implementation is important for allowing everyone to contribute.
+	- It can be difficult to see why someone else would want a change if you don’t need it personally.
+		- Contributors have a responsibility to explain, maintainers have a responsibility to be empathetic.
+	- Talk to contributors on Hangouts and build out the design in a discussion.
+		- Takes a lot of time — is it worth it for an unknown contributor?
+- How do I feel good about reviewing?
+	- As a maintainer, how do I make it clear to contributors that my reviews are suggestions, not orders
+		- Document contributing guidelines! Explicitly specify what is a requirement and what is up for discussion.
+		- Frame review comments as questions rather than statements. “I think this would be better” is much less likely to get discussion than “What do you think about doing it this way?”
+	- What happens when multiple maintainers are having discussion’s in a contributor’s issue?
+		- Maintainers disagreeing can be horrible for the contributor
+		- If there’s a disagreement causing confusion for the contributor, take it private and make a decision to follow policies.
+		- Reach out to contributors to tell them you appreciate their work, even if it’s having a hard time getting merged
+- Can I do reviews on projects I don’t maintain?
+	- Feels like it might not be your place, but might also be a good thing.
+	- Can start with checking people have followed contribution guidelines
+	- Say external reviews are explicitly welcome in the contributing guidelines!
+	- Non-maintainers just leaving empty “Approve” reviews are not helpful, because it doesn’t indicate you’ve read the code at all. Reviews (including Approvals) are fine, but at least write a sentence indicating you’ve actually read the code.
+	- Disclaiming “I’m not a maintainer but fwiw” can help, and if you’ve done it a few times the maintainer might give you commit access to take reviewing responsibility for yourself.
+	- For large single-maintainer projects, reviews from non-maintainers would be wonderful.
+- What’s the ideal “review culture"?
+	- Have approved reviewers you as a maintainer trust who can handle/triage reviews for you most of the time. They can merge directly or escalate if not sure.
+		- GitHub web notifications can’t prioritise comments from specific people, but email notifications might
+	- A Linux-model with sub-reviewers and a final reviewer would be nice but is difficult with GitHub, but not important enough to spend time enforcing.
+	- Release automatically — no point making the approval decision twice.
+		- If you’re unsure about a specific feature a beta release might be useful though.
+			- It might be useful to allow more people to create alpha/beta releases than create proper releases to help with this.
+		- There’s a difference between “does this work” and “do I want to maintain this”?
